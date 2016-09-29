@@ -7,7 +7,7 @@ About
 This Theme is a hack for multilingual blog using **multisite wordpress**. It redirect users from "/" to "/en/" or "/fr/" in function of the accepted languages of the browser.
 The Theme redirect the 404 error page too.
 
-This theme is a quick and dirty hack for my multilingual blog [(http://oncleben31.cc)](http://oncleben31.cc). I don't have any competency in Theme development. 
+This theme is a quick and dirty hack for my previous multilingual blog [(http://oncleben31.cc)](http://oncleben31.cc). I've switched from Wordpress to Jekyll so I won't update it anymore (I think I never updated it ;-)
 Don't hesitate to fork and improve it.
 
 This theme is a good companion to [Multisite Language Switcher (by lloc)](https://github.com/lloc/Multisite-Language-Switcher) plugin for Wordpress. I've develop a similar plugin few years ago but this one is far more mature. Give it a try
@@ -15,9 +15,12 @@ This theme is a good companion to [Multisite Language Switcher (by lloc)](https:
 Set-up Instructions
 -------------------
 
-Install this theme on your network and use this theme for the root blog (which is useless).
+Prerequisite: Your Wordpress installtion should use a network and a dedicated folder for each language. 
+* Install this theme on your network
+* use this theme for the root blog (which is useless if your are compliant with prerequisites )
+* Hack it if you have some specificities.
 
-TODO
+old TODO list. I won't work on it:
 ----
 * use theme option to set the languages and redirect adresses
 * don't use only the prefered language ($Langue[0]), use the others.
