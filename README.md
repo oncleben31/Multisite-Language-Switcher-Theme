@@ -15,7 +15,7 @@ This theme is a good companion to [Multisite Language Switcher (by lloc)](https:
 Set-up Instructions
 -------------------
 
-Prerequisite: Your Wordpress installtion should use a network and a dedicated folder for each language. 
+Prerequisite: Your Wordpress installtion should use a network and a dedicated folder for each language ('/fr' and '/en' in my case). 
 * Install this theme on your network
 * use this theme for the root blog (which is useless if your are compliant with prerequisites )
 * Hack it if you have some specificities.
